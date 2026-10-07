@@ -1,0 +1,7 @@
+{
+  "job_id": "job_34c278a0c5ac",
+  "sourceRepoUrl": "https://github.com/Rathinam288/essl",
+  "targetJavaVersion": "21.0.12.1",
+  "status": "MIGRATION_CHECKPOINT",
+  "migration_date": ""
+}
